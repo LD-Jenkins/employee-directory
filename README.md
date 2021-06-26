@@ -14,10 +14,4 @@ First start by making sure all project files have been downloaded and dependenci
 
 ## GitHub Pages
 
-This project is also ready for deployment to Heroku using MongoDB Atlas.<br>
-[Checkout my hosted app here!](https://budget-tracker-lj.herokuapp.com)
-
-
-# Usage Instructions
-
-Once up and running simply type in the name and amount of a transaction and click submit. 
+[Checkout my hosted app here!](https://ld-jenkins.github.io/employee-directory/)
